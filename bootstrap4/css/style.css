@@ -8,7 +8,7 @@ body {
 height: 100vh;
 }
 
- background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed;
+ background: url("bootstrap4/images/whiskey-background.jpg") no-repeat bottom right fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
